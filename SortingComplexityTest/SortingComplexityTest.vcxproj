@@ -129,7 +129,7 @@
   <ItemGroup>
     <ClInclude Include="colourText.h" />
     <ClInclude Include="insertionSort.h" />
-    <ClInclude Include="menu.h" />
+    <ClInclude Include="sort.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="colourText.cpp" />
