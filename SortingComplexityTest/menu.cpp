@@ -8,6 +8,9 @@ int main(void)
 {
 	ColourText::print("meoooow", 8);  //tak mo¿na pisaæ na szaro :]
 
+
+	
+
 	return 0;
 }
 
