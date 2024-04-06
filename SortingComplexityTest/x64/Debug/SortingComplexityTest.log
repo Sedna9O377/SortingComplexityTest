@@ -1,2 +1,6 @@
-﻿  menu.cpp
-  SortingComplexityTest.vcxproj -> C:\Users\1310i\Documents\GitHub\SortingComplexityTest\x64\Debug\SortingComplexityTest.exe
+﻿  insertionSort.cpp
+  menu.cpp
+  Generating Code...
+menu.obj : error LNK2019: unresolved external symbol "void __cdecl randomNumbers(void)" (?randomNumbers@@YAXXZ) referenced in function "void __cdecl chooseData(void)" (?chooseData@@YAXXZ)
+menu.obj : error LNK2019: unresolved external symbol "void __cdecl loadNumbers(void)" (?loadNumbers@@YAXXZ) referenced in function "void __cdecl chooseData(void)" (?chooseData@@YAXXZ)
+C:\Users\1310i\Documents\GitHub\SortingComplexityTest\x64\Debug\SortingComplexityTest.exe : fatal error LNK1120: 2 unresolved externals

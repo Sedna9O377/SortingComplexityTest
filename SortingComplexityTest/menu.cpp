@@ -38,6 +38,7 @@ int main(void)
 	return 0;
 }
 
+//menu wyboru algorytmu przechowywany jako zmienna enum sort
 void chooseAlgorithm() {
 	char opt;
 	do {
@@ -61,7 +62,7 @@ void chooseAlgorithm() {
 		}
 	} while (opt != '0');
 }
-
+//menu wyboru sposobu za³adowania danych
 void chooseData() {
 	char opt;
 	do {
@@ -88,7 +89,7 @@ void chooseData() {
 	} while (opt != '0');
 }
 
-//tekst menu dopasowuj¹cy siê do tego co w danej chwili 
+//tekst menu dopasowuj¹cy siê do tego co w danej chwili zosta³o ju¿ wybrane
 void menuStart() {
 	cout << endl;
 	if (algorithmChosen) {
