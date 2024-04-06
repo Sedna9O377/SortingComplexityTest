@@ -11,5 +11,10 @@ private:
 
 	}
 
+public:
+	static bool algorithmChosen;
+	static bool dataLoaded;
+
+	static void menuStart();
 };
 
