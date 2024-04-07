@@ -33,3 +33,9 @@
 
 #visual studio folder
 *\.vs
+/SortingComplexityTest/x64/Debug/SortingC.d38df27b.tlog/SortingComplexityTest.lastbuildstate
+/SortingComplexityTest/x64/Debug/SortingComplexityTest.Build.CppClean.log
+/SortingComplexityTest/x64/Debug/SortingComplexityTest.exe.recipe
+/SortingComplexityTest/x64/Debug/SortingComplexityTest.vcxproj.FileListAbsolute.txt
+/SortingComplexityTest/x64/Debug/SortingComplexityTest.exe.recipe
+/SortingComplexityTest/x64/Debug/SortingC.d38df27b.tlog/SortingComplexityTest.lastbuildstate
